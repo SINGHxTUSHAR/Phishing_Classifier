@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+seaborn
+sweetviz
+AutoViz_Class
